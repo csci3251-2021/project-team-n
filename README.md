@@ -1,6 +1,30 @@
-# This team hasn't started yet...
+# introduction
+This is Team N, and here is the list of things we are going to do:
 
-Check back later!
+* Task 1: Starting issues and assign them to each groupmate
 
-**Please read `tasks.md` to start your work.**
+* Task 2: Create project board
+
+* Task 3: Set up readme.md
+
+* Task 4: Show your team to the Internet
+
+* Task 5: Keep checking...
+
+* Task 6: Write C code
+
+* Task 7: Get a status badge
+
+* Task 8: Promote your repo
+
+*Summary: we are going to learn to use github by setting up a simple repo using functions built by github.*
+
+---
+
+# Code
+*//some code here*
  
+ ---
+ 
+# Contributor
+*//Everyone in team N*

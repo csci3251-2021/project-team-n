@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 This is Team N, and here is the list of things we are going to do:
 
 * Task 1: Starting issues and assign them to each groupmate

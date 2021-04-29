@@ -27,4 +27,12 @@ This is Team N, and here is the list of things we are going to do:
  ---
  
 # Contributor
-*//Everyone in team N*
+{% for member in site.stu %}
+  <h2>
+    <a href="https://github.com/{{ member.user }}">
+      {{ member.user }} - {{ member.name }}
+    </a>
+  </h2>
+  ![image]({{ member.image }})
+  <p>{{ member.content | markdownify }}</p>
+{% endfor %}

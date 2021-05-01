@@ -22,10 +22,7 @@ This is Team N, and here is the list of things we are going to do:
 ---
 
 # Code
-*//some code here*
- 
- ---
- 
+{% include_relative code.c %}
 # Contributor
 {% for member in site.stu %}
   <h2>

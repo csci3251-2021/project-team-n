@@ -22,9 +22,10 @@ This is Team N, and here is the list of things we are going to do:
 ---
 
 # Code
-*//some code here*
- 
- ---
+```c
+{% include_relative code.c %}
+```
+![](https://github.com/csci3251-2021/project-team-n/workflows/project-team-n/badge.svg)
  
 # Contributor
 {% for member in site.stu %}

@@ -1,0 +1,17 @@
+name: project-team-n
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Code
+      run: gcc code.c -o code; ./code

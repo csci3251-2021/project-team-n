@@ -37,3 +37,5 @@ This is Team N, and here is the list of things we are going to do:
   ![image]({{ member.image }})
   <p>{{ member.content | markdownify }}</p>
 {% endfor %}
+
+Last updated: {{ site.time }}
